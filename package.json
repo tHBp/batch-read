@@ -1,0 +1,23 @@
+{
+  "name": "batch-read",
+  "version": "0.0.1",
+  "description": "Asynchronous multiple file read with promises!",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/tHBp/batch-read.git",
+    "type": "git"
+  },
+  "keywords": [
+    "batch",
+    "multiple",
+    "file",
+    "read",
+    "promises"
+  ],
+  "bugs": {
+    "url": "https://github.com/tHBp/batch-read/issues"
+  },
+  "homepage": "https://github.com/tHBp/batch-read#batch-read",
+  "author": "tHBp <ramniksinghsodhi@gmail.com>",
+  "license": "MIT"
+}
