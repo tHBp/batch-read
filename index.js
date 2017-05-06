@@ -1,5 +1,4 @@
 const readFile = require('fs').readFile;
-const writeFile = require('fs').writeFile;
 
 function readSingleFile(fileName, encoding) {
     return new Promise(function (resolve, reject) {
